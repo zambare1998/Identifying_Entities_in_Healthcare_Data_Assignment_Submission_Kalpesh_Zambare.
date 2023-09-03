@@ -46,4 +46,13 @@ The assignment involves the following tasks:
 To run the assignment, follow these steps:
 
 1. Clone this repository:
+2. Install the required packages:
+
+3. Open and run the Jupyter Notebook provided in this repository (`Identifying_Entities_in_Healthcare_Data_Assignment_Submission_Kalpesh_Zambare.ipynb`).
+
+4. Explore the code, results, and any additional notes or comments I have provided.
+
+
+
+
 
